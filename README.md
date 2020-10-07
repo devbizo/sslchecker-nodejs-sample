@@ -21,7 +21,7 @@ npm install
 npm start
 ```
 
-- Start by yarb
+- Start by yarn
 ```bash
 yarn start
 ```
